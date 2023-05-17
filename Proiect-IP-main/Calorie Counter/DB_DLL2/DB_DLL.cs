@@ -3,6 +3,8 @@ using System.Data.SqlClient;
 using System.Linq.Expressions;
 using System.Security;
 
+
+
 namespace DB_DLL
 {
     public class DB_Class
@@ -16,7 +18,7 @@ namespace DB_DLL
                 //Se face conexiunea la baza de date
                 conex.Open();
                 //Se intoduce datele utilizatorului in baza de Date
-                SqlCommand comm = new SqlCommand("INSERT INTO [Register_Tabel] (Utilizator,Parola,Greutate,Inaltime,Varsta,Sex,Nivel_Activitate) values(@User,@parola,@greutate,@inaltime,@inaltime,@varsta,@sex,@Niv_Activ)", conex);
+                SqlCommand comm = new SqlCommand("INSERT INTO [Register_Tabel] (Utilizator,Parola,Greutate,Inaltime,Varsta,Sex,Nivel_Activitate) values(@Utilizator,@Parola,@Greutate,@Inaltime,@Varsta,@Sex,@Nivel_Activitate)", conex);
                 comm.Parameters.AddWithValue("@Utilizator", User);
                 comm.Parameters.AddWithValue("@Parola", parola);
                 comm.Parameters.AddWithValue("@Greutate", greutate);
@@ -24,7 +26,9 @@ namespace DB_DLL
                 comm.Parameters.AddWithValue("@Varsta", varsta);
                 comm.Parameters.AddWithValue("@Sex", sex);
                 comm.Parameters.AddWithValue("@Nivel_Activitate", Niv_Activ);
-
+                var tmp = comm.ExecuteNonQuery();
+                Console.WriteLine(tmp);
+                Console.WriteLine("Merge inserare in baza de date");
             }
             catch (Exception ex)
             {
@@ -42,7 +46,7 @@ namespace DB_DLL
         //Verifica daca Username si parola 
         public int check(string User, string parola)
         {
-            int verif = 0;
+            int verif = 1;
             try
             {
                 conex.Open();
@@ -55,8 +59,17 @@ namespace DB_DLL
             try
             {
                 //Se incearca cautare in Baza de Date a User si parola
-                SqlCommand comm = new SqlCommand("select (*) from [Register_Tabel] where [Utilizator] ='" + User + "'" + "AND [Parola]='" + parola + "'", conex);
-                verif = (int)comm.ExecuteScalar();
+                SqlCommand comm = new SqlCommand($"select count(*) from [Register_Tabel] where [Utilizator]=@Utilizator AND [Parola]=@Parola", conex);
+                comm.Parameters.AddWithValue("@Utilizator", User);
+                comm.Parameters.AddWithValue("@Parola", parola);
+                try
+                {
+                    verif = Convert.ToInt32(comm.ExecuteScalar());
+                }
+                catch
+                {
+                    verif = 0;
+                }
             }
             catch (Exception ex)
             {

@@ -24,6 +24,7 @@ namespace Calorie_Counter
         {
             InitializeComponent();
             _meniu = meniu;
+            tbParola.UseSystemPasswordChar = true;
         }
 
         private void btnInregistrare_Click(object sender, EventArgs e)

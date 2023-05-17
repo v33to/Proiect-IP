@@ -28,7 +28,7 @@ namespace Calorie_Counter
             _login = login;
             //Butonul "Pasul urmator" va fi Desabled pana cand vom introudce toae datele si vom apasa pe butonul de inregistrare 
             btnPas.Enabled = false;
-
+            tbParola.UseSystemPasswordChar = true;
         }
 
         private void btnIntoarcere_Click(object sender, EventArgs e)
@@ -60,15 +60,13 @@ namespace Calorie_Counter
                 DB.addData(tbUtilzator.Text, tbParola.Text, float.Parse(tbGreutate.Text), float.Parse(tbInaltime.Text), int.Parse(tbVarsta.Text), cbSex.Text, cbActivitate.Text);
                 //Butonul "Pasil urmator " va fi Enabled
                 btnPas.Enabled = true;
-                MessageBox.Show("Ai introdus Persoana");
+               
             }
             else
             {
                 btnPas.Enabled = false;
                 MessageBox.Show("Trebuie sa completezi toate camputile !!!");
             }
-
-
 
         }
     }
