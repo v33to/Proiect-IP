@@ -1,0 +1,6 @@
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Fatade_DLL\bin\Debug\Fatade_DLL.dll
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Fatade_DLL\bin\Debug\Fatade_DLL.pdb
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Fatade_DLL\obj\Debug\Fatade_DLL.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Fatade_DLL\obj\Debug\Fatade_DLL.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Fatade_DLL\obj\Debug\Fatade_DLL.dll
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Fatade_DLL\obj\Debug\Fatade_DLL.pdb

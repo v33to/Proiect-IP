@@ -1,0 +1,9 @@
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Fatade_DLL\bin\Debug\Fatade_DLL.dll
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Fatade_DLL\bin\Debug\Fatade_DLL.pdb
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Fatade_DLL\bin\Debug\DB_DLL2.dll
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Fatade_DLL\bin\Debug\DB_DLL2.pdb
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Fatade_DLL\obj\Debug\Facade_DLL.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Fatade_DLL\obj\Debug\Facade_DLL.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Fatade_DLL\obj\Debug\Facade_DLL.csproj.CopyComplete
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Fatade_DLL\obj\Debug\Fatade_DLL.dll
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Fatade_DLL\obj\Debug\Fatade_DLL.pdb

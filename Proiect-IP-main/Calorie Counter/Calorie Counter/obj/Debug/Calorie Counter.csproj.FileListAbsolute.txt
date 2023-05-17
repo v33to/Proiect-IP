@@ -1,0 +1,39 @@
+C:\Users\veeto\Desktop\Calorie Counter\Calorie Counter\bin\Debug\Calorie Counter.exe.config
+C:\Users\veeto\Desktop\Calorie Counter\Calorie Counter\bin\Debug\Calorie Counter.exe
+C:\Users\veeto\Desktop\Calorie Counter\Calorie Counter\bin\Debug\Calorie Counter.pdb
+C:\Users\veeto\Desktop\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.csproj.AssemblyReference.cache
+C:\Users\veeto\Desktop\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.csproj.SuggestedBindingRedirects.cache
+C:\Users\veeto\Desktop\Calorie Counter\Calorie Counter\obj\Debug\Calorie_Counter.Properties.Resources.resources
+C:\Users\veeto\Desktop\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.csproj.GenerateResource.cache
+C:\Users\veeto\Desktop\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.csproj.CoreCompileInputs.cache
+C:\Users\veeto\Desktop\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.exe
+C:\Users\veeto\Desktop\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.pdb
+C:\Users\veeto\Desktop\Calorie Counter\Calorie Counter\obj\Debug\Calorie_Counter.Meniu.resources
+C:\Users\veeto\Desktop\Calorie Counter\Calorie Counter\obj\Debug\Calorie_Counter.Setari.resources
+C:\Users\veeto\Desktop\Calorie Counter\Calorie Counter\obj\Debug\Calorie_Counter.Login.resources
+C:\Users\veeto\Desktop\Calorie Counter\Calorie Counter\obj\Debug\Calorie_Counter.Register.resources
+C:\Users\veeto\Desktop\Calorie Counter\Calorie Counter\obj\Debug\Calorie_Counter.Scop.resources
+C:\Users\veeto\Desktop\Calorie Counter\Calorie Counter\obj\Debug\Calorie_Counter.Main.resources
+C:\Users\veeto\Desktop\Calorie Counter\Calorie Counter\obj\Debug\Calorie_Counter.Adauga.resources
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calorie Counter\bin\Debug\Calorie Counter.exe.config
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calorie Counter\bin\Debug\Calorie Counter.exe
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calorie Counter\bin\Debug\Calorie Counter.pdb
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calorie Counter\bin\Debug\DB_DLL2.dll
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calorie Counter\bin\Debug\DB_DLL2.pdb
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.csproj.SuggestedBindingRedirects.cache
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calorie Counter\obj\Debug\Calorie_Counter.Adauga.resources
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calorie Counter\obj\Debug\Calorie_Counter.Meniu.resources
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calorie Counter\obj\Debug\Calorie_Counter.Login.resources
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calorie Counter\obj\Debug\Calorie_Counter.Main.resources
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calorie Counter\obj\Debug\Calorie_Counter.Properties.Resources.resources
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calorie Counter\obj\Debug\Calorie_Counter.Register.resources
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calorie Counter\obj\Debug\Calorie_Counter.Scop.resources
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calorie Counter\obj\Debug\Calorie_Counter.Setari.resources
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.csproj.GenerateResource.cache
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.csproj.CopyComplete
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.exe
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.pdb
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calorie Counter\bin\Debug\Fatade_DLL.dll
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calorie Counter\bin\Debug\Fatade_DLL.pdb
