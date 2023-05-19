@@ -1,0 +1,6 @@
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\DB_DLL2\bin\Debug\DB_DLL2.dll
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\DB_DLL2\bin\Debug\DB_DLL2.pdb
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\DB_DLL2\obj\Debug\DB_DLL2.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\DB_DLL2\obj\Debug\DB_DLL2.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\DB_DLL2\obj\Debug\DB_DLL2.dll
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\DB_DLL2\obj\Debug\DB_DLL2.pdb

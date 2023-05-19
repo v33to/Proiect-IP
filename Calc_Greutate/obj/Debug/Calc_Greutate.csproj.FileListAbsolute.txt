@@ -1,0 +1,11 @@
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calc_Greutate\bin\Debug\Calc_Greutate.dll
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calc_Greutate\bin\Debug\Calc_Greutate.pdb
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calc_Greutate\obj\Debug\Calc_Greutate.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calc_Greutate\obj\Debug\Calc_Greutate.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calc_Greutate\obj\Debug\Calc_Greutate.dll
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calc_Greutate\obj\Debug\Calc_Greutate.pdb
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calc_Greutate\bin\Debug\DB_DLL2.dll
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calc_Greutate\bin\Debug\DB_DLL2.pdb
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calc_Greutate\obj\Debug\Calc_Greutate.csproj.CopyComplete
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calc_Greutate\bin\Debug\Fatade_DLL.dll
+C:\Users\home\Desktop\Proiect_IP\Proiect-IP-main\Calorie Counter\Calc_Greutate\bin\Debug\Fatade_DLL.pdb
